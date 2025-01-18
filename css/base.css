@@ -181,6 +181,55 @@ font-size: x-large;
   flex: 1;
 }
 
+.python_product{
+  background-image:url(../images/programing.png);
+  background-size: cover;
+  height: 300px;
+  margin-top: 8px;
+  width: 300px;
+}
+
+.python_text {
+  background-color: rgb(255, 255, 255, 0.5);
+  height: 300px;
+  align-content: center;
+  font-size: 50px;
+}
+
+.python a {
+  text-decoration: none;
+  color: darkgreen;
+}
+
+.python_text:hover {
+  background-color: rgb(255, 255, 255, 0.1);
+  color: rgb(7, 65, 7);
+}
+
+.TypeScript_product{
+  background-image:url(../images/programing.png);
+  background-size: cover;
+  height: 300px;
+  margin-top: 8px;
+  width: 300px;
+}
+
+.TypeScript_text {
+  background-color: rgb(255, 255, 255, 0.5);
+  height: 300px;
+  align-content: center;
+  font-size: 50px;
+}
+
+.TypeScript a {
+  text-decoration: none;
+  color: darkgreen;
+}
+
+.TypeScript_text:hover {
+  background-color: rgb(255, 255, 255, 0.1);
+  color: rgb(7, 65, 7);
+}
 
 footer {
   margin: -7px;
