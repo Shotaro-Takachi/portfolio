@@ -186,7 +186,7 @@ font-size: x-large;
   background-size: cover;
   height: 300px;
   margin-top: 8px;
-  width: 300px;
+  width: 280px;
 }
 
 .python_text {
@@ -207,11 +207,11 @@ font-size: x-large;
 }
 
 .TypeScript_product{
-  background-image:url(../images/programing.png);
+  background-image:url(../images/programing_tokosai.png);
   background-size: cover;
   height: 300px;
   margin-top: 8px;
-  width: 300px;
+  width: 280px;
 }
 
 .TypeScript_text {
