@@ -203,7 +203,7 @@ font-size: x-large;
 
 .python_text:hover {
   background-color: rgb(255, 255, 255, 0.1);
-  color: rgb(150, 65, 7);
+  color: rgb(180, 5, 70);
 }
 
 .TypeScript_product{
@@ -228,7 +228,7 @@ font-size: x-large;
 
 .TypeScript_text:hover {
   background-color: rgb(255, 255, 255, 0.1);
-  color: rgb(7, 65, 7);
+  color: rgb(180, 5, 70);
 }
 
 footer {
