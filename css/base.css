@@ -90,6 +90,10 @@ nav a:hover {
   text-align: center;
 }
 
+.home{
+  background-color: #FFFFef;
+}
+
 .self_introduction_picture {
   border-radius: 100%;
 }
