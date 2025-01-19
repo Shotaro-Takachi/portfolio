@@ -1,4 +1,5 @@
 @charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
 
 body {
   background-color: forestgreen;
@@ -92,6 +93,10 @@ nav a:hover {
 
 .home{
   background-color: #FFFFef;
+}
+
+.home_section{
+  font-family: 'Sacramento', cursive;
 }
 
 .self_introduction_picture {
