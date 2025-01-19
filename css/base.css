@@ -179,6 +179,7 @@ font-size: x-large;
 
 .flexbox_child {
   flex: 1;
+  margin-left: 5px;
 }
 
 .python_product{
