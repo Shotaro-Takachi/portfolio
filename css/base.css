@@ -92,7 +92,7 @@ nav a:hover {
 }
 
 .home{
-  background-color: #FFFFef;
+  background-color: #a445af;
 }
 
 .home_section{
@@ -100,6 +100,7 @@ nav a:hover {
   margin: 100px;
   padding: 50px 20px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #FFFFef;
   border-radius: 10px;
 }
 
