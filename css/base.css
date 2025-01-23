@@ -311,6 +311,10 @@ small{
     height: 300px;
   }
 
+  .home_section{
+    font-size:0.5ml;
+  }
+
   .content{
     margin-top: 300px;
   }
