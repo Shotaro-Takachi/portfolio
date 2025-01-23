@@ -304,15 +304,15 @@ small{
 
 @media (max-width: 400px){
   body{
-    font-size: 1.5rem;
+    font-size: 0.5rem;
   }
 
   header {
-    height: 250px;
+    height: 300px;
   }
 
   .content{
-    margin-top: 250px;
+    margin-top: 300px;
   }
 
   header img {
